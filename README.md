@@ -1,3 +1,6 @@
+> **Moved to Astack**
+> This repository is archived and read-only. Development is maintained in the [Astack monorepo](https://github.com/abhishek944/astack); see [packages/pi-herdr](https://github.com/abhishek944/astack/tree/main/packages/pi-herdr).
+
 # pi-herdr
 
 Herdr Core agent lifecycle tools and the bundled `herdr` coordination skill for Pi. Version 0.1.0 extracts the existing tools from pi-tasks without renaming them.
